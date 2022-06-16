@@ -1,0 +1,15 @@
+{
+    "name": "daggerhart/autoloading-easiest",
+    "autoload": {
+        "psr-4": {
+            "Daggerhart\\AutoloadingEasiest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jonathan Daggerhart",
+            "email": "jonathan@daggerhartlab.com"
+        }
+    ],
+    "require": {}
+}
